@@ -13,3 +13,5 @@ To use:
 - Copy and paste the URL
 - In OBS, create a new Browser source. Paste the URL.
 - Enjoy!
+
+# controllerSkinPad
